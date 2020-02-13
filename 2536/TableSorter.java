@@ -1,8 +1,8 @@
 // package cs5387;
 
 /*
- * HW2 for CS5387
- * <<author name redacted >>
+ * HW3 for CS5387
+ * <<author name redacted>>
  * Created class TableSorter to sort values from a file as input
  * and then created am object Table to manipulate values
  * and then sort them in increasing order from row and columns
@@ -11,6 +11,9 @@
  * 
  * Following with HW1, we are now counting the amount of operations 
  * done on the search.
+ * 
+ * Follwing with HW2 we are now implementing blackbox testing on the
+ * tablesorter program
  * 
 */
 
