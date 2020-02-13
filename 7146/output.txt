@@ -1,0 +1,102 @@
+
+3X3
+Original Table.
+     0       2       4  
+    60      53      45  
+    25      21      68  
+
+Table is sorted: false.
+Sorting Rows!
+     0       2       4  
+    45      53      60  
+    21      25      68  
+
+Sorting Columns!
+The amount of operations called are: 96 operations.
+     0       2       4  
+    21      25      60  
+    45      53      68  
+
+Table is sorted: true.
+
+
+4X4
+Original Table.
+    23      50      92       3  
+    37       6      49      45  
+    60      91      39      19  
+    46      10      70      18  
+
+Table is sorted: false.
+Sorting Rows!
+     3      23      50      92  
+     6      37      45      49  
+    19      39      60      91  
+    10      18      46      70  
+
+Sorting Columns!
+The amount of operations called are: 232 operations.
+     3      18      45      49  
+     6      23      46      70  
+    10      37      50      91  
+    19      39      60      92  
+
+Table is sorted: true.
+
+
+5X5
+Original Table.
+    77      64      19      37      84  
+     7      74      69      52      22  
+    23      51       3      20      98  
+    99      58      55      82      41  
+    70      96      80      12      68  
+
+Table is sorted: false.
+Sorting Rows!
+    19      37      64      77      84  
+     7      22      52      69      74  
+     3      20      23      51      98  
+    41      55      58      82      99  
+    12      68      70      80      96  
+
+Sorting Columns!
+The amount of operations called are: 410 operations.
+     3      20      23      51      74  
+     7      22      52      69      84  
+    12      37      58      77      96  
+    19      55      64      80      98  
+    41      68      70      82      99  
+
+Table is sorted: true.
+
+
+
+6X6
+Original Table.
+    84      12       7      44       4      50  
+    99      73      37      29      63      68  
+    18      76       5       9      46      15  
+    85      60      32      23      94      69  
+    89      45       1       3      48       6  
+    52      83      33      93      20      19  
+
+Table is sorted: false.
+Sorting Rows!
+     4       7      12      44      50      84  
+    29      37      63      68      73      99  
+     5       9      15      18      46      76  
+    23      32      60      69      85      94  
+     1       3       6      45      48      89  
+    19      20      33      52      83      93  
+
+Sorting Columns!
+The amount of operations called are: 723 operations.
+     1       3       6      18      46      76  
+     4       7      12      44      48      84  
+     5       9      15      45      50      89  
+    19      20      33      52      73      93  
+    23      32      60      68      83      94  
+    29      37      63      69      85      99  
+
+Table is sorted: true.
